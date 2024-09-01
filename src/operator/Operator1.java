@@ -7,6 +7,7 @@ public class Operator1 {
         int a = 5;
         int b = 2;
 
+
         // 덧셈
         int sum = a+b;
         System.out.println("a + b = " + sum);   // 출력 a + b = 7
