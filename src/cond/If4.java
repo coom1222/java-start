@@ -1,6 +1,6 @@
 package cond;
 
-public class if4 {
+public class If4 {
 
     public static void main(String[] args) {
         int age = 5;

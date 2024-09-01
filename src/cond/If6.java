@@ -1,6 +1,6 @@
 package cond;
 
-public class if6 {
+public class If6 {
 
     public static void main(String[] args) {
         int price = 500;
