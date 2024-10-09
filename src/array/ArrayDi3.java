@@ -13,7 +13,7 @@ public class ArrayDi3 {
         };  // 행2, 열3
 
         // 2중 for문, 첫 번째 for문은 행을 탐색, 내부에 있는 두번째 for문은 열을 탐색
-        // arr.length 는 두개를 들 고 있다. {1,2,3}과 {4,5,6} 이로서 행은 이렇게 쓴다. arr 배열은 {},{} 2개의 배열 요소를 가진다.
+        // arr.length 는 두개를 들고 있다. {1,2,3}과 {4,5,6} 이로서 행은 이렇게 쓴다. arr 배열은 {},{} 2개의 배열 요소를 가진다.
         // 그렇다면 열은? arr[row].length 로 쓴다. arr[row] 는 {1,2,3}이다. 얘의 length는 3이므로
         // 즉, arr[row].length는 열의 길이를 뜻한다.
         for (int row = 0; row < arr.length; row++) {
